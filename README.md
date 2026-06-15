@@ -28,11 +28,3 @@ The system trains and evaluates two distinct classification architectures—Logi
 * **Model Serialization:** joblib
 * **Parsing Ecosystem:** pdfplumber / pypdf
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/yourusername/credit-underwriting-engine.git](https://github.com/yourusername/credit-underwriting-engine.git)
-cd credit-underwriting-engine
